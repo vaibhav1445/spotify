@@ -2,6 +2,7 @@ import React, { useEffect, useRef } from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import DisplayHome from './DisplayHome';
 import DisplayAlbum from './DisplayAlbum';
+import Music from './Music';
 import { albumsData } from '../assets/assets';
 
 const Display = () => {
@@ -28,6 +29,7 @@ const Display = () => {
       <Routes>
         <Route path="/" element={<DisplayHome />} />
         <Route path="/album/:id" element={<DisplayAlbum />} />
+        <Route path="/music" element={<Music />} />
       </Routes>
     </div>
   );
