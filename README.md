@@ -1,6 +1,6 @@
 # 🎶 Spotify Clone
 
-A **Spotify-inspired** music streaming web application built with **ReactJS** and **Tailwind CSS**. This clone replicates the core UI and basic functionality of Spotify, providing a modern, responsive, and sleek music player interface.
+A **Spotify-inspired** music streaming web application built with **ReactJS** and **Tailwind CSS**. This clone replicates the core UI and basic functionality of Spotify, providing a modern, responsive, and sleek music player interface. Used NoCodeApi for the data fetching for dynamic music options.
 
 ## 📌 Project Status
 
@@ -8,11 +8,6 @@ A **Spotify-inspired** music streaming web application built with **ReactJS** an
 
 ---
 
-## 🚀 Live Demo
-
-🔗 [View Live Here](https://your-live-site-url.com) *(Add your deployment link if available)* //updating this soon
-
----
 
 ## ✨ Features
 
@@ -21,9 +16,8 @@ A **Spotify-inspired** music streaming web application built with **ReactJS** an
 - ⚙️ **Reusable Components** using ReactJS
 - 🎨 **Styled with Tailwind CSS**
 - 🔀 **Routing** with React Router
-- ▶️ *(Optional)* Play/Pause buttons *(if implemented)* (in progress)
-- 📦 *(Optional)* Data fetching from Spotify API *(if implemented)* (in progress)
-- 🌙 *(Optional)* Dark Mode *(if implemented)* (in progress)
+- ▶️ **Play/Pause buttons 
+- 📦 **Data fetching from Spotify API 
 
 ---
 
